@@ -6,3 +6,5 @@ rails db:migrate
 check for errors:
 user.errors.any?
 user.errors.first
+
+binding.irb - debug command
