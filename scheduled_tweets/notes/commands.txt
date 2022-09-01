@@ -9,4 +9,6 @@ user.errors.first
 
 binding.irb - debug command
 
-EDITOR='code --wait' rails credentials:edit --environment=development
+EDITOR=notepad rails credentials:edit --environment=development
+
+bundle add omniauth-twitter omniauth-rails_csrf_protection
