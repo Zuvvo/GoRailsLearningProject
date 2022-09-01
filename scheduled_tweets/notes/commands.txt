@@ -8,3 +8,5 @@ user.errors.any?
 user.errors.first
 
 binding.irb - debug command
+
+EDITOR='code --wait' rails credentials:edit --environment=development
