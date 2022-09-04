@@ -24,6 +24,8 @@ Rails.application.routes.draw do
   resources :twitter_accounts
   resources :tweets
 
+  delete "delete_tweet", to: "tweets#destroy"
+
   root to: "main#index"
 
 end
