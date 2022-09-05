@@ -33,9 +33,12 @@
     <orderEntry type="library" scope="PROVIDED" name="capybara (v3.37.1, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="childprocess (v4.1.0, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.10, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="connection_pool (v2.2.5, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="digest (v3.1.0, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="domain_name (v0.5.20190701, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dotenv (v2.8.1, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dotenv-rails (v2.8.1, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="equalizer (v0.0.11, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.11.0, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.15.5, ruby-3.1.2-p20) [gem]" level="application" />
@@ -85,10 +88,18 @@
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.4.3, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v7.0.3.1, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis (v4.8.0, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis-actionpack (v5.3.0, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis-activesupport (v5.3.0, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis-namespace (v1.9.0, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis-rack (v2.1.4, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis-rails (v5.0.2, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis-store (v1.9.1, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v2.5.0, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.5, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v2.3.2, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v4.4.0, ruby-3.1.2-p20) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sidekiq (v6.5.6, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="simple_oauth (v0.3.1, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="snaky_hash (v2.0.0, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v4.1.1, ruby-3.1.2-p20) [gem]" level="application" />
