@@ -1,24 +1,12 @@
-# README
+## About
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This website was created in purpose of learning basic Ruby on Rails functionalities and its gems.
+It was created following the tutorial: https://gorails.com/start
 
-Things you may want to cover:
+## Custom registration
 
-* Ruby version
+* sign up and sign in page
+* connecting your account with twitter account
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Application features
+* you can schedule any tweet and this application will post at exact time in the future

@@ -9,6 +9,10 @@ user.errors.first
 
 binding.irb - debug command
 
-EDITOR=notepad rails credentials:edit --environment=development
 
 bundle add omniauth-twitter omniauth-rails_csrf_protection
+
+
+EDITOR=notepad rails credentials:edit --environment=development
+https://dashboard.heroku.com/apps/parking-spots-zuvvo/settings
+add RAILS_MASTER_KEY and value from console
