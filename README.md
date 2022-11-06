@@ -3,6 +3,8 @@
 This website was created in purpose of learning basic Ruby on Rails functionalities and its gems.
 It was created following the tutorial: https://gorails.com/start
 
+https://parking-spots-zuvvo.herokuapp.com/
+
 ## Custom registration
 
 * sign up and sign in page
